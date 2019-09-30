@@ -21,15 +21,16 @@
 ## HTML Layout
 
 > HTML layout elements:
-- <header> At the Top of every page.
-- <main> At the center of every page.
-- <footer> At the bottom of every page.
-- <nav> element is used to contain the major navigational blocks on the site such as the primary site navigation.
-- <section> element groups related content together, and typically each section would have its own heading.
-- <artical> element acts as a container for any section of a page that could stand alone and potentially be syndicated.
+- `<header>` At the Top of every page.
+- `<main>` At the center of every page.
+- `<footer>` At the bottom of every page.
+- `<nav>` element is used to contain the major navigational blocks on the site such as the primary site navigation.
+- `<section>` element groups related content together, and typically each section would have its own heading.
+- `<artical>` element acts as a container for any section of a page that could stand alone and potentially be syndicated.
 
 > Examples for HTML:
-```
+
+``````
 <!DOCTYPE html>
  <html>
   <head>
@@ -61,27 +62,27 @@
             <p>
                 A five week introduction to traditional Japanese vegetarian meals, teaching you a selection of rice and noodle dishes.
             </p>
-            </article>
-            <article>
-                <figure>
-                    <img src="images/teriyaki.jpg" alt="Teriyaki sauce" />
-                    <figcaption>Teriyaki Sauce</figcaption>
-                </figure>
-                <hgroup>
-                    <h2>Sauces Masterclass</h2>
-                    <h3>One day workshop</h3>
-                </hgroup>
-                <p>
-                    An intensive one-day course looking at how to create the most delicious  auces for use in a range of Japanese cookery.
-                </p>
-            </article>
-            <footer>
-                &copy; 2011 Yoko's Kitchen
-            </footer>
-       </section
+        </article>
+        <article>
+            <figure>
+                <img src="images/teriyaki.jpg" alt="Teriyaki sauce" />
+                <figcaption>Teriyaki Sauce</figcaption>
+            </figure>
+            <hgroup>
+                <h2>Sauces Masterclass</h2>
+                <h3>One day workshop</h3>
+            </hgroup>
+            <p>
+                An intensive one-day course looking at how to create the most delicious  auces for use in a range of Japanese cookery.
+            </p>
+        </article>
+        <footer>
+            &copy; 2011 Yoko's Kitchen
+        </footer>
+    </section
   </body>
 </html>
-```
+``````
 
 ## Extra Markup
 
@@ -104,6 +105,6 @@
 
 > iframes:
 ```
-<iframe  width="450"  height="350"  src="http://maps.google.co.uk/maps?q=moma+new+york&amp;output=embed">
+<iframe  width="450"  height="350"  src="google map link">
 </iframe>
 ```
