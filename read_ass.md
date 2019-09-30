@@ -9,3 +9,7 @@
 ## EXPLAIN MARKDOWN
 
 [EXPLAIN MARKDOWN](https://ahmad-sawalqeh.github.io/learning-journal/explain_markdown)
+
+## GIT SUM
+
+[GIT SUM](https://ahmad-sawalqeh.github.io/learning-journal/git_sum)
