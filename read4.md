@@ -30,8 +30,9 @@
 
 > Examples for HTML:
 
-``````
-<!DOCTYPE html>
+```
+
+!DOCTYPE html>
  <html>
   <head>
     <title>HTML5 Layout</title>
@@ -82,7 +83,8 @@
     </section
   </body>
 </html>
-``````
+
+```
 
 ## Extra Markup
 
@@ -94,17 +96,14 @@
 1. HTML 5.
 
 > comment on HTML:
-```
-<!-- add your comment here -->
-```
+
+`<!-- add your comment here -->`
+
 
 > id attribut:
-```
-<p id="my_id_name"></p>
-```
+
+`<p id="my_id_name"></p>`
 
 > iframes:
-```
-<iframe  width="450"  height="350"  src="google map link">
-</iframe>
-```
+
+`<iframe  width="450"  height="350"  src="google map link"></iframe>`
